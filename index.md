@@ -1,14 +1,13 @@
 # ☁️ Cloud & DevOps Portfolio
 
-Welcome to my **Cloud & DevOps portfolio**.  
-This section highlights projects where I applied **cloud engineering, infrastructure automation, and DevOps practices** to build scalable and reliable systems.  
+Welcome to my **Cloud & DevOps portfolio**.    
 
 My focus areas include:  
 - 🚀 **Cloud Platforms** → AWS, Azure, GCP  
 - 🐳 **Containers & Orchestration** → Docker, Kubernetes  
 - 🔄 **CI/CD Pipelines** → GitHub Actions, Jenkins, GitLab CI  
-- 📊 **Monitoring & Logging** → CloudWatch, Prometheus, Grafana  
-- 🔐 **Infrastructure as Code (IaC)** → Terraform, Ansible  
+- 📊 **Monitoring & Logging** → CloudWatch, Grafana  
+- 🔐 **Infrastructure as Code (IaC)** → Terraform
 
 ---
 
@@ -26,7 +25,7 @@ My focus areas include:
 - Built a **serverless pipeline** to process and classify uploaded images  
 - Used **AWS S3 + Lambda + Rekognition + DynamoDB**  
 - Event-driven architecture for **scalable, cost-efficient workflows**  
-👉 [View Project](../projects/aws-serverless-image-processing/README.md)
+👉 [View Project]()
 
 ---
 
@@ -34,7 +33,7 @@ My focus areas include:
 - Deployed a **3-tier application** (Frontend, Backend, Database) on AWS  
 - Used **EC2, RDS, and Elastic Load Balancer** for high availability  
 - Infrastructure managed with **Terraform (IaC)**  
-👉 [View Project](../projects/aws-multi-tier-deployment/README.md)
+👉 [View Project]()
 
 ---
 
@@ -42,19 +41,6 @@ My focus areas include:
 - Deployed **Prometheus + Grafana** to monitor Kubernetes cluster workloads  
 - Created custom dashboards for **CPU, memory, and pod health**  
 - Implemented alerting rules for proactive incident management  
-👉 [View Project](../projects/k8s-monitoring-stack/README.md)
-
----
-
-## 🔹 How to Explore
-- Each project folder contains:
-  - 📄 **README.md** → Detailed architecture, workflows, and screenshots  
-  - 🖼️ **Diagrams** → Cloud architecture diagrams, deployment flows  
-  - 🎥 **Demos** → Video links or deployed services  
-
----
-
-## 🔹 Next Steps
-📂 Browse through my projects, or return to my **[Main Portfolio](../index.md)** to see more on AI/ML, Automation, and PLC systems.  
+👉 [View Project]()
 
 ---
