@@ -45,7 +45,7 @@ My focus areas include:
 ---
 
 ### 3. 🗄️ Serverless Image Processing and Classification Pipeline on AWS
--**Project Overview:** Designed and implemented a serverless architecture to automate image processing and classification tasks. Images uploaded to AWS S3 triggered event-driven AWS Lambda functions, which invoked Amazon Rekognition for object and feature classification. Metadata and results were stored in DynamoDB for scalable querying and retrieval. This architecture eliminated the need for server management, ensured cost efficiency, and enabled highly scalable, event-driven workflows.
+- **Project Overview:** Designed and implemented a serverless architecture to automate image processing and classification tasks. Images uploaded to AWS S3 triggered event-driven AWS Lambda functions, which invoked Amazon Rekognition for object and feature classification. Metadata and results were stored in DynamoDB for scalable querying and retrieval. This architecture eliminated the need for server management, ensured cost efficiency, and enabled highly scalable, event-driven workflows.
 - **Tech Used:**
     - Cloud & Serverless Services: AWS Lambda, AWS S3, Amazon Rekognition, DynamoDB
 
